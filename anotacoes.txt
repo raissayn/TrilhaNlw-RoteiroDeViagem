@@ -1,0 +1,4 @@
+Arquivo txt destinado a anotações da trilha
+- document.querySelection() - Seleção de elementos
+
+Biblioteca Day JS
